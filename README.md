@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Gersomonio
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning javascript and nodejs
+- 💞️ I’m looking to collaborate on web development
+- 📫 How to reach me: email gerson.cfrazao@gmail.com OR discord Gerson#4299
