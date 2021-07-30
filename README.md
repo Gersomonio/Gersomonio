@@ -1,10 +1,12 @@
 ## Hello, my name is Gerson and I'm from Brazil! :)
 - 👀 I’m interested in Front-End Web Development
+  <img align="right" height="120" width="160" alt="Prinny" src="https://media.tenor.com/images/36414cb2f62ef413ae5d42cfc6ce8e80/tenor.gif">
 - 🦧 I’m currently learning Javascript and ReactJS
 - 💻 Recently started participating in DIO's React Bootcamp
 - 🧿 You can contact me on Discord: Gerson#4299 
+- 🐧 Prinnies are my favourite creatures!
 
-<img src="https://komarev.com/ghpvc/?username=Gersomonio&color=green" alt="Gersomonio"/>
+<img src="https://komarev.com/ghpvc/?username=Gersomonio&color=blue" alt="Gersomonio"/>
  <div>
   <a href="https://github.com/Gersomonio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gersomonio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
