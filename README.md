@@ -4,7 +4,7 @@
 - 🦧 I’m currently learning Javascript and ReactJS
 - 💻 Recently started participating in DIO's React Bootcamp
 - 🧿 You can contact me on Discord: Gerson#4299 
-- 🐧 Prinnies are my favourite creatures!
+- 🐧 Prinnies are my favourite creatures and I like to play the 🎸
 
 <img src="https://komarev.com/ghpvc/?username=Gersomonio&color=blue" alt="Gersomonio"/>
  <div>
