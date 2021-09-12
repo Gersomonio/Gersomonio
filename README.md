@@ -1,5 +1,5 @@
 ## Hello, my name is Gerson and I'm from Brazil! :)
-- 👀 I’m interested in Front-End Web Development
+- 👀 I’m interested in Fullstack Development
   <img align="right" height="120" width="160" alt="Prinny" src="https://media.tenor.com/images/36414cb2f62ef413ae5d42cfc6ce8e80/tenor.gif">
 - 🐵 I’m currently learning Javascript and ReactJS
 - 💻 Recently started participating in DIO's React Bootcamp
