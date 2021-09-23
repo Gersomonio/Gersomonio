@@ -6,7 +6,7 @@
 - 🐧 Prinnies are my favourite creatures and I like to play the guitar. 🎸
 
 
-
+<img src="https://komarev.com/ghpvc/?username=Gersomonio&color=blue" alt="Gersomonio"/>
  <div>
   <a href="https://github.com/Gersomonio">
   <img height="173em" src="https://github-readme-stats.vercel.app/api?username=Gersomonio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
