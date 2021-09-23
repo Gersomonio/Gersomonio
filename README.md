@@ -1,9 +1,9 @@
 ## Hello, my name is Gerson, welcome to my profile!
-- 👀 I’m interested in Fullstack Development
+- 👀 I’m interested in Fullstack Development.
   <img align="right" height="120" width="160" alt="Prinny" src="https://media.tenor.com/images/36414cb2f62ef413ae5d42cfc6ce8e80/tenor.gif">
 - ☕ I’m currently learning Java. 
-- 💠 You can contact me on Discord: Gerson#4299 or via [LinkedIn](https://www.linkedin.com/feed/);
-- 🐧 Prinnies are my favourite creatures and I like to play the guitar 🎸
+- 💠 You can contact me on Discord: Gerson#4299 or via [LinkedIn](https://www.linkedin.com/feed/).
+- 🐧 Prinnies are my favourite creatures and I like to play the guitar. 🎸
 
 <img src="https://komarev.com/ghpvc/?username=Gersomonio&color=blue" alt="Gersomonio"/>
  <div>
